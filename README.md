@@ -1,4 +1,4 @@
-<!-- SEO Keywords: Shayon Ahmed Hankai, Discord Manager, Developer, Levelyn Esports, Cybersecurity, Bangladesh -->
+<!-- SEO Keywords: Shayon Ahmed Hankai, Discord Manager, Strategic Operations, Levelyn Esports, Cybersecurity, Bangladesh -->
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <h1>Shayon Ahmed Hankai</h1>
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=18&duration=3000&pause=1000&color=a6acaf&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Discord+Manager+%7C+Developer+%7C+Content+Creator" alt="Role">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=18&duration=3000&pause=1000&color=a6acaf&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=Discord+Manager+%7C+Strategic+Operations+%7C+Content+Creator" alt="Role">
 </p>
 
 **Gazipur, Dhaka, Bangladesh**
@@ -17,21 +17,21 @@
 
 ## About
 
-Senior discord architect and developer at Levelyn Esports. Building systems that scale. Content creator. Studying cybersecurity. I don't explain myself much—the work does.
+Discord Manager and Strategic Operations at Levelyn Esports. Building community systems and operational workflows behind the scenes. Also creating content and learning cybersecurity on the side.
 
 ---
 
 ## What I Do
 
 **Levelyn Esports**  
-Discord ecosystem design, bot infrastructure, community scaling. Real systems handling real communities.
+Community system architecture. Operational workflows. Discord infrastructure that handles real scale.
 
 **EXEC Hankai**  
-Creating content that matters. YouTube, TikTok, visual narratives.
+Content creation. YouTube, TikTok, visual narratives.
 
 **Ongoing**  
 Cybersecurity fundamentals and penetration testing.  
-Nexus Froge .NF — experimental project.
+Nexus Froge .NF — experimental work.
 
 ---
 
